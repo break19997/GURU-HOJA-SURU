@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['32460248586', 'Ash', true], 
+  ['919432913109', 'GURU', true],
+  ['7480941797', 'Ash', true], 
   [''] 
 ] //Numeros de owner 
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['919432913109','9432913109'] 
+global.prems = ['917480941797', '9432913109', '919432913109']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,13 +25,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = '69┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on https://instagram.com/good_boy10134?igshid=ZDdkNTZiNTM=' 
+global.dygp = 'https://api.whatsapp.com/send?phone=+919432913109'
+global.fgsc = 'https://github.com/Guru3/GURU-BOT-V1' 
+global.fgyt = 'https://youtube.cru'
+global.fgpyp = 'https://youtube.cguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
