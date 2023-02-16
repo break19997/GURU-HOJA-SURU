@@ -8,8 +8,8 @@ global.owner = [
   [''] 
 ] //Numeros de owner 
 
-global.mods = ['919432913109','9432913109'] 
-global.prems = ['917480941797', '9432913109', '919432913109']
+global.mods = ['919432913109','917439742145'] 
+global.prems = ['917480941797', '917439742145', '919432913109']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -26,7 +26,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '69┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = '@tarun' 
 global.igfg = '▢ Follow on https://instagram.com/good_boy10134?igshid=ZDdkNTZiNTM=' 
 global.dygp = 'https://api.whatsapp.com/send?phone=+919432913109'
 global.fgsc = 'https://github.com/Guru3/GURU-BOT-V1' 
